@@ -56,6 +56,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remote  name="xd-gitlab"
+           fetch="https://gitlab.com/xdroid-oss"
+           revision="thirteen" />
+
   <include name="aospa.xml"/>
   <include name="obsolete.xml"/>
 
